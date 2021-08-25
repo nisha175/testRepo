@@ -1,11 +1,19 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
   <groupId>com.testGit</groupId>
   <artifactId>testGit</artifactId>
   <packaging>war</packaging>
   <version>1.0.SNAPSHOT</version>
   <name>testGit Maven Webapp</name>
+=======
+  <groupId>com.gitproject</groupId>
+  <artifactId>gitproject</artifactId>
+  <packaging>war</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>gitproject Maven Webapp</name>
+>>>>>>> faf20daea38ad6a471d1aae4fc6e51bf9c6f1d70
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +24,10 @@
     </dependency>
   </dependencies>
   <build>
+<<<<<<< HEAD
     <finalName>testGit</finalName>
+=======
+    <finalName>gitproject</finalName>
+>>>>>>> faf20daea38ad6a471d1aae4fc6e51bf9c6f1d70
   </build>
 </project>
